@@ -1,4 +1,4 @@
-void main(0
+void main(0)
 {
 	
 	
